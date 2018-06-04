@@ -1,0 +1,28 @@
+{
+  "name": "test",
+  "version": "0.1.0",
+  "summary": "A shor.",
+  "description": "tetetetetet",
+  "homepage": "https://github.com/impressionapple/testView.git",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "1145821676@qq.com": "1145821676@qq.com"
+  },
+  "source": {
+    "git": "https://github.com/impressionapple/testView.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "test/Classes/**/*",
+  "resource_bundles": {
+    "lwqLib": [
+      "test/Assets/**/*.png",
+      "test/Classes/**/*.xib"
+    ]
+  }
+}
